@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AGContentSharing</string>
+    <string name="share_simple_data">分享数据</string>
+    <string name="share_file">分享文件</string>
+    <string name="share_via_nfc">使用NFC分享</string>
+    <string name="title_activity_share_data">分享数据</string>
+    <string name="share_text">分享文本</string>
+    <string name="title_activity_receive_data">ReceiveDataActivity</string>
+    <string name="send_type_text">text/plain</string>
+    <string name="send_type_img">image/*</string>
+
 </resources>
